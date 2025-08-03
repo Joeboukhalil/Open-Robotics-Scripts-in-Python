@@ -33,8 +33,7 @@ Each Python script in this repository is a self-contained **node** (or module) t
 
 ## Getting Started
 
-1. Clone the repo:
-   git clone https://github.com/your-username/robotics-python-nodes.git
+1. Clone the repo: https://github.com/Joeboukhalil/Open-Robotics-Scripts-in-Python.git
    cd robotics-python-nodes
 
    2. Make sure you have Python 3 installed.
